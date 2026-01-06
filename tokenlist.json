@@ -1,0 +1,16 @@
+{
+  "name": "My Teller USDV Token List",
+  "timestamp": "2024-04-27T00:00:00Z",
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x49acb3FF22DcAf4773690A2761A17aDC980e0DdD",
+      "name": "Teller USDV",
+      "symbol": "USDV",
+      "decimals": 18,
+      "logoURI": "https://captainvyomcoin.github.io/my-teller-usdv-token/logo.png",
+      "tags": ["stablecoin"]
+    }
+  ],
+  "logoURI": "https://captainvyomcoin.github.io/my-teller-usdv-token/logo.png"
+}
